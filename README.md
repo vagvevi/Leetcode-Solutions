@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Database
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/vagvevi/Leetcode-Solutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/vagvevi/Leetcode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vagvevi/Leetcode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
