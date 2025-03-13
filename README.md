@@ -89,9 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
