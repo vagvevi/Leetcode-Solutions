@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -110,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0937-online-stock-span) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
