@@ -120,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
