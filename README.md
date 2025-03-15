@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
