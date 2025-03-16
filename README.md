@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/vagvevi/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vagvevi/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Design
